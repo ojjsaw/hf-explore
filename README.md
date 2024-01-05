@@ -49,5 +49,5 @@ bash hf_download.sh helenai/CompVis-stable-diffusion-v1-4-ov test_img_project
 ```
 
 ```bash
-bash hf_benchmark_text_to_img.sh helenai/CompVis-stable-diffusion-v1-4-ov sailing\ ship\ in\ storm\ by\ Rembrandt 1 1 test_img_project
+bash hf_benchmark_text_to_img.sh helenai/CompVis-stable-diffusion-v1-4-ov sailing\ ship\ in\ storm\ by\ Rembrandt 3 1 test_img_project
 ```
