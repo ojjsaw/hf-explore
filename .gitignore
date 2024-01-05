@@ -1,3 +1,7 @@
+my_venv/*
+test_project/*
+test_img_project/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
